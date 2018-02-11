@@ -5,4 +5,4 @@ movies.avatar();
 movies.printFirst();
 movies.printSecond();
 
-console.log(movies.favouriteMovie)
+console.log(movies.favoriteMovie)

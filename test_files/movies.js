@@ -7,7 +7,7 @@ module.exports = {
     printSecond: function () {
         console.log("print the value # second")
     },
-    favouriteMovie: "Ichigo"
+    favoriteMovie: "Ichigo"
 };
 
 function printAvatar() {
