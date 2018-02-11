@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d994344-6df9-4f44-aca9-f297ee6deb05" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/test_files/print101.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test_files/test_function.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test_files/test_orders.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_files/test_reference.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -59,11 +57,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_orders.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_orders.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_files/test_orders.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_reference.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_files/test_reference.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -97,6 +105,7 @@
         <option value="$PROJECT_DIR$/Test101.js" />
         <option value="$PROJECT_DIR$/test_function.js" />
         <option value="$PROJECT_DIR$/test_files/test_orders.js" />
+        <option value="$PROJECT_DIR$/test_files/test_reference.js" />
       </list>
     </option>
   </component>
@@ -111,7 +120,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -186,24 +195,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.test_orders.js">
+  <component name="RunManager" selected="Node.js.test_reference.js">
     <configuration name="Test101.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/test_files/print101.js" working-dir="$PROJECT_DIR$" />
     <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$" />
     <configuration name="test_function.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/test_files/test_function.js" working-dir="$PROJECT_DIR$" />
     <configuration name="test_orders.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test_orders.js" working-dir="$PROJECT_DIR$/test_files" />
-    <list size="5">
+    <configuration name="test_reference.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test_reference.js" working-dir="$PROJECT_DIR$/test_files" />
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Node.js.bin\www" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.app.js" />
       <item index="2" class="java.lang.String" itemvalue="Node.js.Test101.js" />
       <item index="3" class="java.lang.String" itemvalue="Node.js.test_function.js" />
       <item index="4" class="java.lang.String" itemvalue="Node.js.test_orders.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.test_reference.js" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.test_orders.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.test_function.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.Test101.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.app.js" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.test_reference.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.test_orders.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.test_function.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.Test101.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.app.js" />
       </list>
     </recent_temporary>
   </component>
@@ -220,18 +232,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518369031566</updated>
-      <workItem from="1518369033475" duration="2788000" />
+      <workItem from="1518369033475" duration="3322000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2788000" />
+    <option name="totallyTimeSpent" value="3322000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="752" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="752" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2470238" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2470238" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -314,6 +325,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_files/test_reference.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
           <folding />
         </state>
       </provider>
