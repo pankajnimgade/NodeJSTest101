@@ -1,8 +1,20 @@
-function printAvatar(){
+module.exports = {
+
+    printFirst: function () {
+        console.log("print this value # First");
+    },
+
+    printSecond: function () {
+        console.log("print the value # second")
+    },
+    favouriteMovie: "Ichigo"
+};
+
+function printAvatar() {
     console.log("Avatar: PGa");
 }
 
-function printHello(){
+function printHello() {
     console.log("Hello -y12");
 }
 
