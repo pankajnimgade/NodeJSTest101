@@ -47,11 +47,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_miscellaneous.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_miscellaneous.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_files/core_modules/test_miscellaneous.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_Server.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_files/server/test_Server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -62,16 +72,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shared_movie_module.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_files/shared/shared_movie_module.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -154,6 +154,7 @@
         <option value="$PROJECT_DIR$/test_files/core_modules/test_path.js" />
         <option value="$PROJECT_DIR$/test_files/core_modules/test_miscllenious.js" />
         <option value="$PROJECT_DIR$/test_files/core_modules/test_miscellaneous.js" />
+        <option value="$PROJECT_DIR$/test_files/server/test_Server.js" />
       </list>
     </option>
   </component>
@@ -210,12 +211,6 @@
               <item name="NodeJSTest101" type="462c0819:PsiDirectoryNode" />
               <item name="test_files" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="NodeJSTest101" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NodeJSTest101" type="462c0819:PsiDirectoryNode" />
-              <item name="test_files" type="462c0819:PsiDirectoryNode" />
-              <item name="core_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -251,27 +246,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.test_miscellaneous.js">
+  <component name="RunManager" selected="Node.js.test_Server.js">
     <configuration name="start_app.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/test_files/object_factory/object_factory_start_app.js" working-dir="$PROJECT_DIR$/test_files/object_factory" />
-    <configuration name="start_app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="start_app.js" working-dir="$PROJECT_DIR$/test_files/shared" />
     <configuration name="test_FileSystem.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test_FileSystem.js" working-dir="$PROJECT_DIR$/test_files/core_modules" />
+    <configuration name="test_Server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test_Server.js" working-dir="$PROJECT_DIR$/test_files/server" />
     <configuration name="test_miscellaneous.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test_miscellaneous.js" working-dir="$PROJECT_DIR$/test_files/core_modules" />
     <configuration name="test_path.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test_path.js" working-dir="$PROJECT_DIR$/test_files/core_modules" />
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Node.js.bin\www" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.start_app.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.start_app.js (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.test_FileSystem.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.test_path.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.test_miscellaneous.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.start_app.js (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.test_FileSystem.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.test_path.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.test_miscellaneous.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.test_Server.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.test_miscellaneous.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.test_path.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.test_FileSystem.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.start_app.js (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.start_app.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.test_Server.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.test_miscellaneous.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.test_path.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.test_FileSystem.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.start_app.js (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -288,12 +283,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518369031566</updated>
-      <workItem from="1518369033475" duration="11159000" />
+      <workItem from="1518369033475" duration="12608000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11159000" />
+    <option name="totallyTimeSpent" value="12608000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="752" extended-state="6" />
@@ -535,6 +530,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_files/server/test_Server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
           <folding />
         </state>
       </provider>
