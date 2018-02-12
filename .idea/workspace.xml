@@ -37,11 +37,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_path.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_path.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_files/core_modules/test_path.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_miscellaneous.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_files/core_modules/test_miscellaneous.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -107,16 +117,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="start_app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_files/shared/start_app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -152,6 +152,8 @@
         <option value="$PROJECT_DIR$/test_files/object_factory/Cuba1.js" />
         <option value="$PROJECT_DIR$/test_files/core_modules/test_FileSystem.js" />
         <option value="$PROJECT_DIR$/test_files/core_modules/test_path.js" />
+        <option value="$PROJECT_DIR$/test_files/core_modules/test_miscllenious.js" />
+        <option value="$PROJECT_DIR$/test_files/core_modules/test_miscellaneous.js" />
       </list>
     </option>
   </component>
@@ -249,27 +251,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.test_path.js">
+  <component name="RunManager" selected="Node.js.test_miscellaneous.js">
     <configuration name="start_app.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/test_files/object_factory/object_factory_start_app.js" working-dir="$PROJECT_DIR$/test_files/object_factory" />
     <configuration name="start_app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="start_app.js" working-dir="$PROJECT_DIR$/test_files/shared" />
     <configuration name="test_FileSystem.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test_FileSystem.js" working-dir="$PROJECT_DIR$/test_files/core_modules" />
-    <configuration name="test_movies.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test_movies.js" working-dir="$PROJECT_DIR$/test_files" />
+    <configuration name="test_miscellaneous.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test_miscellaneous.js" working-dir="$PROJECT_DIR$/test_files/core_modules" />
     <configuration name="test_path.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test_path.js" working-dir="$PROJECT_DIR$/test_files/core_modules" />
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Node.js.bin\www" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.test_movies.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.start_app.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.start_app.js (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.test_FileSystem.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.test_path.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.start_app.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.start_app.js (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.test_FileSystem.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.test_path.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.test_miscellaneous.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.test_path.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.test_FileSystem.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.start_app.js (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.start_app.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.test_movies.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.test_miscellaneous.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.test_path.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.test_FileSystem.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.start_app.js (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.start_app.js" />
       </list>
     </recent_temporary>
   </component>
@@ -286,12 +288,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518369031566</updated>
-      <workItem from="1518369033475" duration="10508000" />
+      <workItem from="1518369033475" duration="11159000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10508000" />
+    <option name="totallyTimeSpent" value="11159000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="752" extended-state="6" />
@@ -525,6 +527,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_files/core_modules/test_miscellaneous.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
           <folding />
         </state>
       </provider>
